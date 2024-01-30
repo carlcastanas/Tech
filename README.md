@@ -3,11 +3,11 @@
 ## Description
 Welcome to the Philippines Content Creators Directory! This repository aims to compile a list of talented content creators based in the Philippines along with information about their respective communities. Whether you're looking for vloggers, streamers, or bloggers, this directory is here to help you discover and connect with the vibrant content creation scene in the Philippines.
 
-## Table of Contents
+## Content Creators
 
 | Name                   | Username          | Platform         | Community                   | Description                                      |
 |------------------------|-------------------|------------------|-----------------------------|--------------------------------------------------|
-| Carl Andrew Castañas   | @carlcastanas     | TikTok, YouTube, LinkedIn, Facebook | Icreatechs Community | Filipino Software Engineer based in Australia. I do content creations and help IT people with their roadmaps. |
+| Carl Andrew Castañas   | [@carlcastanas](https://www.instagram.com/carlcastanas/)     | [TikTok](https://www.tiktok.com/@carlcastanas), [YouTube](https://www.youtube.com/user/carlcastanas), [LinkedIn](https://www.linkedin.com/in/carlcastanas), [Facebook](https://www.facebook.com/carlcastanas) | Icreatechs Community | Filipino Software Engineer based in Australia. I do content creations and help IT people with their roadmaps. |
 | Juan Dela Cruz         | @juancreates      | YouTube          | Juan Creates Community      | Lifestyle vlogger sharing insights on Filipino culture and daily life. |
 | Maria Santiago         | @marias_creations | Instagram        | Maria's Creations Community | Food blogger exploring the diverse culinary landscape of the Philippines. |
 | Andrei Gaming          | @andreigamingph   | Twitch           | Andrei Gaming PH Community  | Gaming streamer with a focus on popular titles and community engagement. |
